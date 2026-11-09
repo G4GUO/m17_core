@@ -1,4 +1,4 @@
-# m17_sdr
+# m17_core
 
 SDR software for implementing M17 radio protocol with either a Pluto / Pluto+ or LimeSDR
 
@@ -22,7 +22,7 @@ codec2
 
 To build the m17 code do the following
     
-    cd m17_sdr/m17gismo
+    cd m17_core/m17gismo
     make
 
 To run the code 
